@@ -13,3 +13,16 @@ Software validation project-group 2.
 
 ## Project part 1 (TO-DO)
 
+<table width="80%" align="center" >
+    <div id="head_nav">
+    <tr>
+        <th>Time</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thrusday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+    </tr>
+</div>  
+
