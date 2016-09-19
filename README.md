@@ -21,4 +21,15 @@ Software validation project-group 2.
         <th>Saturday</th>
     </tr>
 </div>  
+<div id="h_nav">
+    <tr>
+        <th>Time</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thrusday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+    </tr>
+</div> 
 
