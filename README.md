@@ -7,9 +7,9 @@ Software validation project-group 2.
 - Neil Sabharwal. 
 ...(other team members to be added)
 
-|Name    |Availability     |
-|........|.................|
-|        |                 |
+|Name    |Availability      |     |
+|........|:................:|...:|
+|        |                  |     |
 
 ## Project part 1 (TO-DO)
 
