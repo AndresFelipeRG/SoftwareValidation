@@ -7,6 +7,7 @@ Software validation project-group 2.
 - Neil Sabharwal. 
 ...(other team members to be added)
 
+
 ##Schedule
 <table width="90%" align="center" >
     <div id="h_nav">
@@ -21,4 +22,3 @@ Software validation project-group 2.
     </tr>
 </div>  
 
-## Project part 1 (TO-DO)
