@@ -10,8 +10,8 @@ Software validation project-group 2.
 
 ##Schedule
 <table width="90%" align="center" >
-    <caption>Week 3</caption>
-    <div id="h_nav">
+    
+    <tr><td colspan="6">Week 3</td></tr>
     <tr>
         
         <th>Monday</th>
