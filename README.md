@@ -11,7 +11,7 @@ Software validation project-group 2.
 ##Schedule
 <table width="90%" align="center" >
     
-    <tr><td colspan="6">Week 3</td></tr>
+    <tr align = "center"><td colspan="6">Week 3</td></tr>
     <tr>
         
         <th>Monday</th>
