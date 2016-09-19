@@ -1,4 +1,4 @@
-# SoftwareValidation
+# SoftwareValidation :shipit
 Software validation project-group 2.
 
 ###Team members
@@ -6,6 +6,8 @@ Software validation project-group 2.
 - Nick Nasirpour.
 - Neil Sabharwal. 
 ...(other team members to be added)
+
+|Name    |Availability     |
 
 ## Project part 1
 
