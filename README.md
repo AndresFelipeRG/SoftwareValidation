@@ -13,7 +13,7 @@ Software validation project-group 2.
     <div><tr>Week 3</tr></div>
     <div id="h_nav">
     <tr>
-        <th>Time</th>
+        
         <th>Monday</th>
         <th>Tuesday</th>
         <th>Wednesday</th>
@@ -24,7 +24,7 @@ Software validation project-group 2.
 </div>  
 <div id="h_nav">
     <tr>
-        <th></th>
+        
         <th></th>
         <th></th>
         <th></th>
