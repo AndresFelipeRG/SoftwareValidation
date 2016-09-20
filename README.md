@@ -1,4 +1,4 @@
-# SoftwareValidation :shipit:
+# SoftwareValidation 
 Software validation project-group 2.
 
 ##Team members
