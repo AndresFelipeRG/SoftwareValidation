@@ -10,7 +10,9 @@ Software validation project-group 2.
 ## References
 
 - Useful reference about sequence diagrams http://www.ibm.com/developerworks/rational/library/3101.html
+
 ##Schedule
+
 <table width="90%" align="center" >
     
     <tr align = "center"><th colspan="7">Week 3</th></tr>
